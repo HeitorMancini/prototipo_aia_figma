@@ -1,6 +1,6 @@
-Protótipo feito por:
+Protótipo feito por:<br>
   
-  Heitor Mancini
+  Heitor Mancini<br>
   Gabriel Parra
-  
+  <br>
  Professor Anderson
