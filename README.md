@@ -1,2 +1,6 @@
-# prototipo_aia_figma
-Prototipo de app de carteira digital para moeda fictícia
+Protótipo feito por:
+  
+  Heitor Mancini
+  Gabriel Parra
+  
+ Professor Anderson
